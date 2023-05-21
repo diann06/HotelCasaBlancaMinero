@@ -1,0 +1,106 @@
+body {background: #F0EBE5;
+}
+
+#botones-nav {
+	/* [disabled]background-color: #A62631; */
+	color: #FFFFFF;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+nav ul {
+	padding: 10px;
+
+	
+}
+nav ul li a:hover {
+	border-radius: 5px;
+	background-color: #C71F2F;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+}
+
+nav ul li a{
+	color: #FFFFFF;
+}
+
+
+#iconocollapsable {
+	border-color: #FFFFFF;
+}
+
+#boton{
+	align-items: center;
+}
+#footer {
+	background-color: #32242C;
+	margin-top: 10px;
+	padding-top: 15px;
+}
+#pag-color {
+	background-color: #DC3545;
+	border-color: #AA1F26;
+}
+
+#hfondoclaro {
+	color: #820F1C;
+	font-family: 'Mukta', sans-serif;
+	font-size: 28pt;
+}
+
+.social-icon{
+	margin: 8px;
+}
+
+h5{color: #f0ebe5
+}
+
+p{font-size: 18px;
+}
+
+#nav-espacio{padding: 10px;
+}
+.li-size {
+	font-size: 13px;
+}
+#logo2 {
+	padding: 3px;
+	margin-bottom: 15px;
+}
+
+#menu {
+	margin: 5px;
+}
+#sob_nosespacio {
+	margin-top: 120px;
+}
+#mision {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 18pt;
+}
+#vision {
+	margin-top: 5px;
+	margin-bottom: 20px;
+	line-height: 18pt;
+}
+#img_sobno {
+	padding: 10px;
+	height: 90%;
+	width: 100%;
+}
+
+.parrafofont {
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+.parrafofont1 {
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+	font-size: 12pt;
+}
+.misvis {
+	color: #820F1C;
+	font-family: 'Mukta', sans-serif;
+	font-size: 20pt;
+}

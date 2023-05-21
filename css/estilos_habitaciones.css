@@ -1,0 +1,180 @@
+body {background: #F0EBE5;
+}
+
+#botones-nav {
+	/* [disabled]background-color: #A62631; */
+	color: #FFFFFF;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+nav ul {
+	padding: 10px;
+
+	
+}
+nav ul li a:hover {
+	border-radius: 5px;
+	background-color: #C71F2F;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+}
+
+nav ul li a{
+	color: #FFFFFF;
+}
+
+#habitaciones {
+	margin-top: 140px;
+}
+
+#iconocollapsable {
+	border-color: #FFFFFF;
+}
+
+
+#boton{
+	align-items: center;
+}
+#footer {
+	background-color: #32242C;
+	margin-top: 10px;
+	padding-top: 15px;
+}
+#pag-color {
+	background-color: #DC3545;
+	border-color: #AA1F26;
+}
+
+#fondo-habitaciones {
+	background-color: #aa1f26;
+}
+#fondo-habitaciones1 {
+	background-color: #aa1f26;
+}
+
+.botonm_i {
+	border-radius: 8px;
+	background-color: #DFAB6E;
+	margin: 15px;
+	margin-left: 0px;
+	color: #FFFFFF;
+}
+
+.botonm_i:hover{
+	background-color: #EBAF69;
+	color: #FFFFFF;
+	-webkit-box-shadow: 0px 2px 1px #6E4920;
+	box-shadow: 0px 2px 1px #6E4920;
+	
+}
+
+#presentacion {
+	color: #820F1C;
+	font-family: 'Mukta', sans-serif;
+	font-size: 25pt;
+}
+
+.social-icon{
+	margin: 8px;
+}
+
+h5{color: #f0ebe5
+}
+
+p{
+	font-size: 18px;
+}
+
+#nav-espacio{
+	
+	padding: 10px;
+}.li-size {
+	font-size: 13px;
+}
+#logo2 {
+	padding: 3px;
+	margin-bottom: 15px;
+}
+
+#menu {
+	margin: 5px;
+}
+
+.hfondoclaro {
+	color: #820F1C;
+	font-family: 'Mukta', sans-serif;
+}
+.img-fondo {
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+.space-serv {
+	padding: 5px;
+	margin: 5px;
+}
+
+.servicios {
+	padding-top: 15px;
+	/* [disabled]padding-right: 15px; */
+	/* [disabled]padding-left: 15px; */
+	margin-top: 5px;
+	/* [disabled]margin-right: 5px; */
+	/* [disabled]margin-left: 5px; */
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+.nombre {
+	margin-left: 15px;
+
+}
+#des-habdoble {
+	margin-top: 22px;
+}
+#formulario1 {
+	padding: 20px;
+	background-color: #32242C;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+#precioD {
+	color: #D3B188;
+	margin-top: 10px;
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+#marg-HD {
+	margin-top: 20px;
+}
+.espacio {
+	width: 50%;
+	height: 100%;
+	margin: 10px;
+	color: #A87940;
+}
+
+a:link {
+	text-decoration: none;
+}
+#reservafondo {
+	margin-top: 5px;
+	padding: 30px;
+	background-color: #AA1F26;
+}
+.comprobacion {
+	color: #FFF1E2;
+}
+
+.colort1 {
+	color: #FBD1A1;
+	padding-top: 20px;
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+.parrafofont {
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+.res-font {
+	font-family: 'Mukta', sans-serif;
+}

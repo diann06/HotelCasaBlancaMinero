@@ -1,0 +1,158 @@
+body {
+	background: #F0EBE5;
+}
+
+#botones-nav {
+	/* [disabled]background-color: #A62631; */
+	color: #FFFFFF;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+nav ul {
+	padding: 10px;
+
+	
+}
+nav ul li a:hover {
+	border-radius: 5px;
+	background-color: #C71F2F;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+}
+
+nav ul li a{
+	color: #FFFFFF;
+}
+
+
+#iconocollapsable {
+	border-color: #FFFFFF;
+}
+
+#boton{
+	align-items: center;
+}
+#footer {
+	background-color: #32242C;
+	/* [disabled]margin-top: 10px; */
+	padding-top: 15px;
+}
+#pag-color {
+	background-color: #DC3545;
+	border-color: #AA1F26;
+}
+
+.hfondoclaro {
+	color: #820F1C;
+	font-family: 'Mukta', sans-serif;
+	font-size: 28pt;
+}
+.hfondorojo {
+	color: #FFFFFF;
+	font-family: 'Mukta', sans-serif;
+	font-size: 28pt;
+}
+
+.social-icon{
+	margin: 8px;
+}
+
+h5{color: #f0ebe5
+}
+
+p{font-size: 18px;
+}
+
+#nav-espacio{padding: 10px;
+}
+.li-size {
+	font-size: 13px;
+}
+#logo2 {
+	padding: 3px;
+	margin-bottom: 15px;
+}
+
+#menu {
+	margin: 5px;
+}
+#espacio {
+	margin-top: 120px;
+}
+#espacio2 {
+	margin-top: 25px;
+}
+#espacio3 {
+	margin-top: 25px;
+}
+
+
+.parrafofont {
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+.parrafofont1 {
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+	font-size: 12pt;
+}
+
+.title {
+	color: #820F1C;
+	font-family: 'Mukta', sans-serif;
+	font-size: 16pt;
+}
+#paginacion {
+	padding-top: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	background: #F0EBE5;
+}
+.esp-title {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.botons_mas {
+	background-color: #DFAB6E;
+	color: #FFFFFF;
+	-webkit-box-shadow: 0 2px 2px #9A672A;
+	box-shadow: 0 2px 2px #9A672A;
+	border-radius: 10px;
+}
+.botons_mas:hover {
+	background-color: #EBAF69;
+	color: #FFFFFF;
+	-webkit-box-shadow: 0px 2px 1px #6E4920;
+	box-shadow: 0px 2px 1px #6E4920;
+	border-radius: 10px;
+}
+
+.fondo-images{
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 30px;
+	background-color: #E7D1B8;
+}
+.fondo-images1{
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 30px;
+	background-color: #AA1F26;
+}
+.map {
+	padding-top: 15px;
+}
+.fondo2 {
+	background-color: #AA1F26;
+}
+.fondo1 {
+	background-color: #E7D1B8;
+}
+.margin {
+	margin-bottom: 15px;
+}
